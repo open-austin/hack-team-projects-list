@@ -5,4 +5,4 @@ Hack Task Aggregator,"Web application to aggregate tasks across projects that ar
 Bike Buddy,Connecting people who want to try bicycle commuting with experienced bicycle commuters who want to help. A May 2013 Austin Bike Month initiative. Created as a public service by Open Austin.,http://bike-buddy.open-austin.org/,https://github.com/chip-rosenthal/bike-buddy,web service,"transporation, bicycling"
 Austin Restaurant Scores,App to query Austin restaurant scores,http://open-austin.github.io/atx-restaurant-scores/public/index.html,https://github.com/open-austin/atx-restaurant-scores,web service,food safety
 Vote ATX,The Vote ATX application finds voting places based on a user's location.,voteatx.us,https://github.com/chip-rosenthal/voteatx,web service,"elections, politics, voting"
-http://data.open-austin.org/lives.ci.austin.tx.us.zip,https://github.com/chip-rosenthal/atx-lives-feed,data feed,"health"
+LIVES,http://data.open-austin.org/lives.ci.austin.tx.us.zip,https://github.com/chip-rosenthal/atx-lives-feed,data feed,"health"
