@@ -6,3 +6,4 @@ Bike Buddy,Connecting people who want to try bicycle commuting with experienced 
 Austin Restaurant Scores,App to query Austin restaurant scores,http://open-austin.github.io/atx-restaurant-scores/public/index.html,https://github.com/open-austin/atx-restaurant-scores,web service,food safety
 Vote ATX,The Vote ATX application finds voting places based on a user's location.,voteatx.us,https://github.com/chip-rosenthal/voteatx,web service,"elections, politics, voting"
 LIVES,"Generate LIVES standard data feed from restaurant inspection scores in Austin, TX.",http://data.open-austin.org/lives.ci.austin.tx.us.zip,https://github.com/chip-rosenthal/atx-lives-feed,data feed,"food safety"
+ATX Housing,"Helping people find affordable housing in Austin, TX", http://atxhousing.herokuapp.com,https://github.com/paulserraino/ATXHousing,web service,housing
